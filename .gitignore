@@ -1,0 +1,22 @@
+node_modules
+package-lock.json
+
+cypress/screenshots
+cypress/videos
+
+
+echo "# PGATS-AUTOMACAO-WEB-TRABALHO-FINAL" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/viviannegoliveira3/PGATS-AUTOMACAO-WEB-TRABALHO-FINAL.git
+git push -u origin main
+git status 
+git add .
+
+push an existing repository from the comand line
+
+git remote add origin https://github.com/viviannegoliveira3/PGATS-AUTOMACAO-WEB-TRABALHO-FINAL.git
+git branch -M main
+git push -u origin main
